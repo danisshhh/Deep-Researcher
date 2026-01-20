@@ -60,6 +60,3 @@ The intelligence core.
     Follow the [Frontend Setup Guide](./app/README.md#getting-started) to install Node modules and start the interface.
 
 ---
-
-> "The goal is not just to search, but to understand."  
-> — *pixelThreader & Team*
