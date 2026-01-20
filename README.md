@@ -1,6 +1,6 @@
 # Deep Researcher
 <div align="center">
-  <img src="app/public/brand/Square310x310Logo.png" alt="Deep Researcher Logo" width="200" />
+  <img src="app/public/brand/image.png" alt="Deep Researcher Logo" width="200" />
   <br />
   <p><em>Autonomously Synthesizing Global Knowledge</em></p>
 </div>
